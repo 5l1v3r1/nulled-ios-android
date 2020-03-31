@@ -12,9 +12,11 @@ For Android users on the other hand you will only need your phone/tablet.
 
 Yes this entire thing is safe, as long as your device has no malware you will be ensured safety. I am thinking about an inbuilt VPN to keep the FBI off your back.
 
-### Creators
+### Creators/Contributers
 
-* **stinkydev** - *Everything you see so far.* *
+* **stinkydev** - *Everything you see so far.* 
+* **finndev** - *Owner of nulled.to.*
+* **Bleach** - *Admin of nulled.to.*
 
 ### Is this approved?
 
