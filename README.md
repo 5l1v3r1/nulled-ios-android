@@ -31,3 +31,9 @@ Although I will keep your login details on the device aswell to avoid having to 
 ### License
 
 See [LICENSE.md](LICENSE.md) for details.
+
+### Contributers
+
+No one xd
+
+If you want to be here PM me 
